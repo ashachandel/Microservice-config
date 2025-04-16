@@ -1,7 +1,7 @@
 
 spring:
 application:
-name: user-service
+name: config-default
 
 eureka:
   client:
